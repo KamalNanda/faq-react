@@ -1,0 +1,39 @@
+{
+	"QAData" : [
+				{
+			"question" : "Why shouldn't we trust atoms?",
+			"answer" : "They make up everything.",
+			"answerId" : "answer1",
+			"arrowId" : "arrow1",
+			"closeId" : "close1"
+			},
+			{
+			"question" : "What do you call someone with no body and no nose?",
+			"answer" : "Nobody knows.",
+			"answerId" : "answer2",
+			"arrowId" : "arrow2",
+			"closeId" : "close2"
+			},
+			{
+			"question" : "What's the object-oriented way to become wealthy?",
+			"answer" : "Inheritance.",
+			"answerId" : "answer3",
+			"arrowId" : "arrow3",
+			"closeId" : "close3"
+			},
+			{
+			"question" : "How many tickles does it take to tickle an octopus?",
+			"answer" : "Ten-tickles!",
+			"answerId" : "answer4",
+			"arrowId" : "arrow4",
+			"closeId" : "close4"
+			},
+			{
+			"question" : "What is: 1 + 1?",
+			"answer" : "Depends on who are you asking.",
+			"answerId" : "answer5",
+			"arrowId" : "arrow5",
+			"closeId" : "close5"
+			}
+	]
+}

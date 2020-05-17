@@ -1,0 +1,54 @@
+body{
+  background-color: #f0f0f0;
+  color: black
+}
+.header{
+  font-size: 64px;
+  font-weight: 400
+}
+.faq-container{
+	width: 60%;
+	margin-left: 20%;
+
+}
+.faq-body{
+	background-color: white;
+	border: 1px solid black;
+	color: black;
+	margin-bottom: 40px;
+	font-size: 20px;
+	padding: 10px 20px;
+	border-radius: 10px;
+	position: relative;
+}
+.icon{
+	position: absolute;
+	right: 40px;
+	width: 5%;
+	top: 40%;
+	cursor: pointer;
+}
+.answer{
+	display: none
+}
+.faq-body h2{
+	width: 80%
+}
+@media (max-width: 525px){
+	.faq-container{
+		width: 80%;
+		margin-left: 10%;
+	}
+	.icon{
+		top: 20px ;
+		right: 20px;
+	}
+	.faq-body h2{
+		font-size: 20px
+	}
+}
+footer{
+	font-size: 24px;
+	margin-left: 5%;
+	margin-bottom: 20px
+}
